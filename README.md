@@ -9,15 +9,18 @@ This Python program analyzes the text of Shakespeare's *Romeo and Juliet* and pr
 ```bash
 python romeo_and_juliet_analysis.py
 ```
----
-🧰 Tech Stack
 
-Python 3.11+
-
-Standard Library only
+Make sure `romeo_and_juliet_text.py` is in the same folder as `romeo_and_juliet_analysis.py`.
 
 ---
 
-📄 License
+## 🧰 Tech Stack
+
+* Python 3.11+
+* Standard Library only
+
+---
+
+## 📄 License
 
 MIT License © 2025 Greg Dearing
