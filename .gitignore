@@ -1,6 +1,7 @@
-# PyCharm
+# IDE / Editor
 .idea/
 *.iml
+.codio/
 
 # Python
 __pycache__/
